@@ -1,4 +1,4 @@
-public class Main {
+public class FactorialNumber {
     public static void main(String[] args) {
         int n = 8;
         int sum=1;
